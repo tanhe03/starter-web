@@ -1,0 +1,13 @@
+Henry - Copied the following for gihub help
+
+Set up Git
+At the heart of GitHub is an open source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer.
+
+Connecting to GitHub with SSH
+You can connect to GitHub using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network.
+
+Creating and managing repositories
+You can create a repository on GitHub to store and collaborate on your project's files, then manage the repository's name and location.
+
+Basic writing and formatting syntax
+Create sophisticated formatting for your prose and code on GitHub with simple syntax.
