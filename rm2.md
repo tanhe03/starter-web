@@ -4,4 +4,6 @@
 
 ## Purpose
 
-## How To COntriubte
+## Deployement ( 2 New Line)
+
+## How To Contribute (2 Changed Line)
